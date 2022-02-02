@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main()
 {
-    int i,j,m=1,k,n=4;
+    int i,j,m=1,k,n=5;
     for(i=1;i<=7;i++)
     {   
         //loop to print space
